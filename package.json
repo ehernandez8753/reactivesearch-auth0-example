@@ -44,7 +44,7 @@
   "bugs": {
     "url": "https://github.com/ehernandez8753/reactivesearch-auth0-example/issues"
   },
-  "homepage": "https://github.com/ehernandez8753/reactivesearch-auth0-example",
+  "homepage": "https://github.com/ehernandez8753/reactivesearch-auth0-example#index.html",
   "description": "",
   "proxy": "http://localhost:5000/"
 }
